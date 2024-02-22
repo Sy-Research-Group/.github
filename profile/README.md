@@ -12,4 +12,4 @@ SYRG's dedication to the self-development category goes beyond just offering cou
 As SYRG continues to expand its reach and impact, it remains committed to the noble cause of fostering personal growth and self-improvement in an accessible and inclusive manner. Through cutting-edge research, innovative technologies, and a passion for helping individuals thrive, SYRG is poised to make a lasting and positive difference in the lives of countless people as they navigate their unique paths toward self-realization and personal success.
 
 ## Projects
-- SelfDrug.com = A self development site.
+- SelfBetter.me, developed by syrg, is your go-to destination for free, high-quality self-development courses. Dive into a world of personal growth and empowerment as we provide essential information and guidance to help you on your journey of self-discovery and improvement. Join us on a path to unlock your full potential, all at no cost to you.
